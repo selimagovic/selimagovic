@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm Selim - aka [selimagovic] 👋
 
-[![Twitter Follow](https://img.shields.io/github/languages/count/selimagovic/mern?style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fselimagovic&screen_name=selimagovic)
-
 ## I'm a Developer, and Game Designer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -17,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="selimagovic" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="selimagovic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="selimagovic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="selimagovic | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -46,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="selimagovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="selimagovic's GitHub Stats" src="https://github-readme-stats.selimagovic.vercel.app/api?username=selimagovic&show_icons=true&hide_border=true" />
 
 </details>
 
