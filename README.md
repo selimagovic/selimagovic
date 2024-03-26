@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 👀 I’m interested in Game Development, Web Development
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ I love to play games, basketball, tennis
 
 ### Connect with me:
